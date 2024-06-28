@@ -9,8 +9,8 @@
     "number": "160",
     "rarity": "Rare Secret",
     "images": {
-      "small": "https://images.pokemontcg.io/swsh12pt5/160.png",
-      "large": "https://images.pokemontcg.io/swsh12pt5/160_hires.png"
+      "small": "/img/080.png",
+      "large": "/img/080.png"
     }
   },
   {
@@ -23,8 +23,8 @@
     "number": "33",
     "rarity": "Common",
     "images": {
-      "small": "https://images.pokemontcg.io/sm10/33.png",
-      "large": "https://images.pokemontcg.io/sm10/33_hires.png"
+      "small": "/img/079.png",
+      "large": "/img/079.png"
     }
   },
   {
@@ -37,8 +37,8 @@
     "number": "7",
     "rarity": "Common",
     "images": {
-      "small": "https://images.pokemontcg.io/sm115/7.png",
-      "large": "https://images.pokemontcg.io/sm115/7_hires.png"
+      "small": "/img/081.png",
+      "large": "/img/081.png"
     }
   },
   {
@@ -51,8 +51,8 @@
     "number": "1",
     "rarity": "Common",
     "images": {
-      "small": "https://images.pokemontcg.io/sm35/1.png",
-      "large": "https://images.pokemontcg.io/sm35/1_hires.png"
+      "small": "/img/084.png",
+      "large": "/img/084.png"
     }
   },
   {
@@ -65,10 +65,8 @@
     "number": "127",
     "rarity": "Common",
     "images": {
-      "small": "https://images.pokemontcg.io/swsh12/127.png",
-      "large": "https://images.pokemontcg.io/swsh12/127_hires.png",
-      "foil": "/img/foils/swsh12/foils/127_foil_holo_reverse.jpg",
-      "mask": "/img/foils/swsh12/masks/127_foil_holo_reverse.png"
+      "small": "/img/086.png",
+      "large": "/img/086.png"
     }
   },
   {
@@ -81,10 +79,8 @@
     "number": "85",
     "rarity": "Uncommon",
     "images": {
-      "small": "https://images.pokemontcg.io/swsh12/85.png",
-      "large": "https://images.pokemontcg.io/swsh12/85_hires.png",
-      "foil": "/img/foils/swsh12/foils/085_foil_holo_reverse.jpg",
-      "mask": "/img/foils/swsh12/masks/085_foil_holo_reverse.png"
+      "small": "/img/088.png",
+      "large": "/img/088.png"
     }
   },
   {
@@ -97,10 +93,8 @@
     "number": "116",
     "rarity": "Uncommon",
     "images": {
-      "small": "https://images.pokemontcg.io/swsh12/116.png",
-      "large": "https://images.pokemontcg.io/swsh12/116_hires.png",
-      "foil": "/img/foils/swsh12/foils/116_foil_holo_reverse.jpg",
-      "mask": "/img/foils/swsh12/masks/116_foil_holo_reverse.png"
+      "small": "/img/092.png",
+      "large": "/img/092.png"
     }
   },
   {

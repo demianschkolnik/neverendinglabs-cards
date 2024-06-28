@@ -15,7 +15,7 @@
 	const loadCards = async() => {
 	  return getCards()
 		.then((cards) => {
-		  basics = cards.slice(1, 10); // Assuming common cards are in this range
+		  basics = cards.slice(1, 7); // Assuming common cards are in this range
 		  isLoading = false;
 		});
 	};
@@ -27,7 +27,7 @@
   
   <main>
 	<header>
-	  <h1>Pokemon Cards - Common & Uncommon</h1>
+	  <h1>Neverearth Cards</h1>
 	</header>
   
 	{#if isLoading}

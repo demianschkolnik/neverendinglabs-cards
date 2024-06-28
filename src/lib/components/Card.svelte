@@ -17,7 +17,7 @@
 
   // image props
   export let img = "";
-  export let back = "https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg";
+  export let back = "/img/102.png_back.png";
   export let foil = "";
   export let mask = "";
 
@@ -38,7 +38,7 @@
 
   let back_img = back;
   let front_img = "";
-  let img_base = img.startsWith("http") ? "" : "https://images.pokemontcg.io/";
+  let img_base = "";
 
 
   let thisCard;
