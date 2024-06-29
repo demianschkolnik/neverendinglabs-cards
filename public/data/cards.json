@@ -14,13 +14,13 @@
     }
   },
  	{
-    "id": "swshp-SWSH180",
+    "id": "swshp-2",
     "set": "swshp",
     "name": "Flareon VMAX",
     "supertype": "Pokémon",
     "subtypes": ["VMAX", "Single Strike"],
     "types": ["Fire"],
-    "number": "SWSH180",
+    "number": "SWSH181",
     "rarity": "Rare Rainbow",
     "images": {
       "small": "/img/survivors/fronts/001.png",
