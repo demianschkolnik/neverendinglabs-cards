@@ -15,7 +15,7 @@
 	const loadCards = async() => {
 	  return getCards()
 		.then((cards) => {
-		  basics = cards
+		  basics = cards; 
 		  isLoading = false;
 		});
 	};
