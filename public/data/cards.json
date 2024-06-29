@@ -1,6 +1,6 @@
 [
 
-{"id": "Su001", "set": "Metropolis", "name": "Wasp Warrior", "supertype": "", "subtypes": "", "types": ["fire"], "number": "1", "rarity": "Rare Rainbow", "images": { "small": "/img/survivors/front/000.png", "large": "/img/survivors/front/000.png" } },
+{"id": "Su001", "set": "Metropolis", "name": "Wasp Warrior", "supertype": "", "subtypes": "", "types": ["Fire"], "number": "1", "rarity": "Rare Rainbow", "images": { "small": "/img/survivors/fronts/000.png", "large": "/img/survivors/fronts/000.png" } },
 
 
  	{
