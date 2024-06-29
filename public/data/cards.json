@@ -1,6 +1,5 @@
 [
 
-{"id": "Su000", "set": "Metropolis", "name": "Placeholder", "supertype": "", "subtypes": "", "types": ["Fire"], "number": "1", "rarity": "Rare Rainbow", "images": { "small": "/img/survivors/fronts/000.png", "large": "/img/survivors/fronts/000.png" } },
 {"id": "Su001", "set": "Metropolis", "name": "Wasp Warrior", "supertype": "", "subtypes": "", "types": ["Fire"], "number": "", "rarity": "Rare Rainbow", "images": { "small": "/img/survivors/fronts/001.png", "large": "/img/survivors/fronts/001.png" } },
 {"id": "Su002", "set": "Metropolis", "name": "Dragonfly Scout", "supertype": "", "subtypes": "", "types": ["Fire"], "number": "", "rarity": "Rare Rainbow", "images": { "small": "/img/survivors/fronts/002.png", "large": "/img/survivors/fronts/002.png" } },
 {"id": "Su003", "set": "Metropolis", "name": "Worker Ant", "supertype": "", "subtypes": "", "types": ["Fire"], "number": "", "rarity": "Rare Rainbow", "images": { "small": "/img/survivors/fronts/003.png", "large": "/img/survivors/fronts/003.png" } },
