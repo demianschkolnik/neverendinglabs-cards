@@ -15,7 +15,7 @@
 	const loadCards = async() => {
 	  return getCards()
 		.then((cards) => {
-		  basics = cards.slice(1, 7); // Assuming common cards are in this range
+		  basics = cards
 		  isLoading = false;
 		});
 	};
