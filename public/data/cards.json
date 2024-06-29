@@ -26,5 +26,61 @@
       "small": "/img/survivors/fronts/001.png",
       "large": "/img/survivors/fronts/001.png"
     }
+  },
+   	{
+    "id": "swshp-2",
+    "set": "swshp",
+    "name": "Flareon VMAX",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Fire"],
+    "number": "SWSH181",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "/img/survivors/fronts/002.png",
+      "large": "/img/survivors/fronts/002.png"
+    }
+  },
+   	{
+    "id": "swshp-2",
+    "set": "swshp",
+    "name": "Flareon VMAX",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Fire"],
+    "number": "SWSH181",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "/img/survivors/fronts/003.png",
+      "large": "/img/survivors/fronts/003.png"
+    }
+  },
+   	{
+    "id": "swshp-2",
+    "set": "swshp",
+    "name": "Flareon VMAX",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Fire"],
+    "number": "SWSH181",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "/img/survivors/fronts/004.png",
+      "large": "/img/survivors/fronts/004.png"
+    }
+  },
+   	{
+    "id": "swshp-2",
+    "set": "swshp",
+    "name": "Flareon VMAX",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Fire"],
+    "number": "SWSH181",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "/img/survivors/fronts/005.png",
+      "large": "/img/survivors/fronts/005.png"
+    }
   }
  ]
