@@ -17,7 +17,7 @@
 	  return getCards()
 		.then((cards) => {
 		  seekers = cards.slice(0, 35); //va hasta n-1!
-		  survivors = cards.slice(36, 175); //va hasta n-1!
+		  survivors = cards.slice(35, 175); //va hasta n-1!
 		  isLoading = false;
 		});
 	};
