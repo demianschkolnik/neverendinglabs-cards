@@ -3,7 +3,8 @@
 	import CardList from "./Cards.svelte";
 	import Card from "./lib/components/CardProxy.svelte";
   
-	let basics = [];
+	let seekers = [];
+	let survivors = [];
 	let isLoading = true;
   
 	const getCards = async () => {
@@ -15,7 +16,8 @@
 	const loadCards = async() => {
 	  return getCards()
 		.then((cards) => {
-		  basics = cards; 
+		  seekers = cards.slice(0, 35); //va hasta n-1!
+		  survivors = cards.slice(36, 175); //va hasta n-1!
 		  isLoading = false;
 		});
 	};
@@ -33,8 +35,23 @@
 	{#if isLoading}
 	  <p>Loading...</p>
 	{:else}
+	<h2>Seekers</h1>
 	  <CardList>
-		{#each basics as card}
+		{#each seekers as card}
+		  <Card
+			id={card.id}
+			name={card.name}
+			img={card.images.large}
+			number={card.number}
+			types={card.types}
+			supertype={card.supertype}
+			subtypes={card.subtypes}
+		  />
+		{/each}
+	  </CardList>
+	  <h2>Survivors</h1>
+	  <CardList>
+		{#each survivors as card}
 		  <Card
 			id={card.id}
 			name={card.name}
