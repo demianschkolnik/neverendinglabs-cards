@@ -35,7 +35,9 @@
 	{#if isLoading}
 	  <p>Loading...</p>
 	{:else}
-	<h2>Seekers</h1>
+	
+	<h2>Seekers</h2>
+	
 	  <CardList>
 		{#each seekers as card}
 		  <Card
@@ -49,7 +51,9 @@
 		  />
 		{/each}
 	  </CardList>
-	  <h2>Survivors</h1>
+	  
+	  <h2>Survivors</h2>
+	  
 	  <CardList>
 		{#each survivors as card}
 		  <Card
